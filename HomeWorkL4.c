@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+  
 #define HEIGHT 8
 #define WIDTH 8
 
